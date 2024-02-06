@@ -1,5 +1,22 @@
 # project-tech
 
-<p>hallo</p>
-<p>Dit is mijn eerste update>
-<p>wauwieee</p> 
+## Week 1 
+In de eerste week heb ik de opdrachten PT 001, 002, 003 en 004 gemaakt
+
+
+project uitleg 
+> huisstijl 
+wat is het doel van het project
+
+wat zijn de stappen om jouw project aan de praat krijgen
+instal guide 
+teamleden uitleg
+
+> beter in het engels 
+
+
+
+
+### License 
+De code is MIT
+
