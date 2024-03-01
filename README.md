@@ -20,3 +20,4 @@ teamleden uitleg
 ### License 
 De code is MIT
 
+https://github.com/Kimvz19/project-tech.wiki.git
